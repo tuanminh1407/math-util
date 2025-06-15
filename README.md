@@ -19,4 +19,4 @@ framework
 
 ### Connect me via: trantuanminh9324@gmail.com
 
-### &#169; 2025 giáo.làng
+### &#169; 2025 tuan.minh
