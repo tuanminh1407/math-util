@@ -11,10 +11,10 @@ framework
 
 ## Screenshots
 ### TDD, DDT test script with JUnit
-![TDD DDT test script](https://github.com/tuanminh1407/mathutil/blob/main/screenshots/TDD_DDT%20with%20JUnit.png)
+![TDD DDT test script]((https://github.com/tuanminh1407/math-util/blob/main/screenshots/TDD_DTT%20with%20JUnit.png))
 
 ### Buid app with Maven
-![Maven builder](https://github.com/tuanminh1407/mathutil/blob/main/screenshots/Maven%20Builder.png)
+![Maven builder]((https://github.com/tuanminh1407/math-util/blob/main/screenshots/Maven%20Builder.png))
 
 
 ### Connect me via: trantuanminh9324@gmail.com
